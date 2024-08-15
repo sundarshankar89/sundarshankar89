@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**sundarshankar89/sundarshankar89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sundar Shankar
 
-Here are some ideas to get you started:
+**Sr. Resident Solutions Architect @ Databricks**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I am a passionate solutions architect with a focus on leveraging the power of Databricks Lakehouse for data engineering and analytics.
+
+## Pinned Repositories
+
+- **[databrickslabs/remorph](https://github.com/databrickslabs/remorph)**: A cross-compiler into Databricks Lakehouse.
+
+## Recent Contributions
+
+I have made significant contributions to various projects, including:
+
+- **databrickslabs/remorph**: Created pull requests, reviewed code, and added new features like the Databricks Source Adapter and serverless validation using the lsql library.
+- **databrickslabs/blueprint**: Worked on updating requirements and enhancing functionality.
+
+## Activity Overview
+
+## Contact
+
+Feel free to reach out to me for collaboration or any queries related to Databricks and data solutions.
+
