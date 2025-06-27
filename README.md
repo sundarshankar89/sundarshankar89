@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate Engineer focused on building app
 
 ## Pinned Repositories
 
-- **[databrickslabs/remorph](https://github.com/databrickslabs/remorph)**: A cross-compiler into Databricks Lakehouse.
+- **[databrickslabs/remorph](https://github.com/databrickslabs/lakebridge)**: A cross-compiler into Databricks Lakehouse.
 
 ## Recent Contributions
 - Building cross-compilers for Any SQL to Databricks SQL. 
